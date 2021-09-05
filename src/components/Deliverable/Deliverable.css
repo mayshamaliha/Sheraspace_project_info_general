@@ -1,0 +1,18 @@
+.Deliverable{
+    border: 1px solid;
+    border-color: #DCDCDC;
+    background-color:white;
+    padding: 20px;
+    padding-top: 80px;
+    font-size: 18px;
+}
+.submit-button{
+    background-color: #ef5359;
+    color: white;
+    border-style: hidden;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+    font-weight: 100;
+    border-radius: 5px;
+    margin: 10px 20px 10px 0px;
+}

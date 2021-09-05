@@ -1,0 +1,25 @@
+.NavigationBar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.buttonStyle {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color:#DCDCDC;
+    
+    display: flex;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 10%;
+    font-size: 15px;
+}
+.buttonStyle:hover{
+    background-color: red;
+    color: white;
+}
