@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sheraspace_project_info_general/static/css/main.838b2ee4.chunk.css",
+    "main.js": "/Sheraspace_project_info_general/static/js/main.c7bffae4.chunk.js",
+    "main.js.map": "/Sheraspace_project_info_general/static/js/main.c7bffae4.chunk.js.map",
+    "runtime-main.js": "/Sheraspace_project_info_general/static/js/runtime-main.d0eaba63.js",
+    "runtime-main.js.map": "/Sheraspace_project_info_general/static/js/runtime-main.d0eaba63.js.map",
+    "static/js/2.5ec7c3f1.chunk.js": "/Sheraspace_project_info_general/static/js/2.5ec7c3f1.chunk.js",
+    "static/js/2.5ec7c3f1.chunk.js.map": "/Sheraspace_project_info_general/static/js/2.5ec7c3f1.chunk.js.map",
+    "index.html": "/Sheraspace_project_info_general/index.html",
+    "static/css/main.838b2ee4.chunk.css.map": "/Sheraspace_project_info_general/static/css/main.838b2ee4.chunk.css.map",
+    "static/js/2.5ec7c3f1.chunk.js.LICENSE.txt": "/Sheraspace_project_info_general/static/js/2.5ec7c3f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0eaba63.js",
+    "static/js/2.5ec7c3f1.chunk.js",
+    "static/css/main.838b2ee4.chunk.css",
+    "static/js/main.c7bffae4.chunk.js"
+  ]
+}
